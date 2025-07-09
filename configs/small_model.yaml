@@ -1,0 +1,7 @@
+model:
+  n_layer: 2
+  n_head: 4
+  n_embd: 256
+training:
+  learning_rate: 3e-4
+  epochs: 3
